@@ -1,7 +1,6 @@
 venv/
 BD_original/
 prueba/
-modelos/
 BD_procesada/
 imagenes/
 explicacion_datos.ipynb
