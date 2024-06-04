@@ -5,3 +5,4 @@ BD_procesada/
 imagenes/
 explicacion_datos.ipynb
 imagenes2/
+**/modelo_generado/
