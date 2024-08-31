@@ -6,3 +6,5 @@ imagenes/
 explicacion_datos.ipynb
 split_imagenes/
 **/modelo_generado/
+**/repeticiones_experimento/
+**/resultados_iteraciones/
