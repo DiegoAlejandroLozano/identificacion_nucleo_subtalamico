@@ -38,7 +38,7 @@ El proyecto incluye las siguientes etapas principales:
 
 ## Resultados
 
-Los modelos desarrollados lograron una precisión superior al 90% en la identificación del STN. Los modelos basados en transfer learning (VGG19 y ResNet50) mostraron un rendimiento superior en comparación con los modelos entrenados desde cero, destacándose en términos de precisión y sensibilidad.
+El mejor modelo desarrollado fue el Modelo 2 de CNN 1D, el cual alcanzó un rendimiento sobresaliente con una precisión promedio del 91.08%, una sensibilidad del 98.81% y una exactitud del 83.30%, superando a todos los demás modelos en términos de capacidad para detectar correctamente la clase positiva. Entre los modelos CNN 2D, el modelo con VGG19 utilizando la función madre MEXH mostró un desempeño destacado, alcanzando una sensibilidad del 94% y una precisión promedio del 88%.
 
 ## Archivos excluidos
 
